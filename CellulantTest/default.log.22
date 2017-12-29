@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:07:02</date>
+  <millis>1514542022654</millis>
+  <sequence>22</sequence>
+  <logger>Information: Proccess Was Completed Successfully</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Information: Proccess Was Completed Successfully</message>
+</record>
+</log>

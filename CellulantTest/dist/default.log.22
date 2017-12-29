@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:49:02</date>
+  <millis>1514544542530</millis>
+  <sequence>22</sequence>
+  <logger>Information: Export to PDF Was Completed Successfully</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Information: Export to PDF Was Completed Successfully</message>
+</record>
+</log>

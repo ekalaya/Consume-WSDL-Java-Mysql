@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:06:56</date>
+  <millis>1514542016987</millis>
+  <sequence>13</sequence>
+  <logger>Update Operation: Table=practical | Values Changed=32.18688 To32.18688 Where LengthID=2</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Update Operation: Table=practical | Values Changed=32.18688 To32.18688 Where LengthID=2</message>
+</record>
+</log>

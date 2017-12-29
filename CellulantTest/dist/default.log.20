@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:49:02</date>
+  <millis>1514544542104</millis>
+  <sequence>20</sequence>
+  <logger>Update Operation: Table=practical | Values Changed=0.0 To144.84096 Where LengthID=9</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Update Operation: Table=practical | Values Changed=0.0 To144.84096 Where LengthID=9</message>
+</record>
+</log>

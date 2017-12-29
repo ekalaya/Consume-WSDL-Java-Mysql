@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T11:40:56</date>
+  <millis>1514540456526</millis>
+  <sequence>9</sequence>
+  <logger>Update Operation: Table=practical | Values Changed=160.9344 To160.9344 Where LengthID=10</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Update Operation: Table=practical | Values Changed=160.9344 To160.9344 Where LengthID=10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:04:38</date>
+  <millis>1514541878827</millis>
+  <sequence>11</sequence>
+  <logger>Information: Proccess Was Completed Successfully</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Information: Proccess Was Completed Successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-29T12:06:54</date>
+  <millis>1514542014536</millis>
+  <sequence>11</sequence>
+  <logger>Information: Proccess Was Completed Successfully</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Information: Proccess Was Completed Successfully</message>
+</record>
+<record>
+  <date>2017-12-29T12:07:02</date>
+  <millis>1514542022654</millis>
+  <sequence>22</sequence>
+  <logger>Information: Proccess Was Completed Successfully</logger>
+  <level>INFO</level>
+  <class>cellulanttest.WriteLog</class>
+  <method>LogNow</method>
+  <thread>14</thread>
+  <message>Information: Proccess Was Completed Successfully</message>
+</record>
+</log>
